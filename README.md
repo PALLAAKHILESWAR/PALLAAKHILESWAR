@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">hey there 👋 i'm akhil</h1>
 
-<!--
-**PALLAAKHILESWAR/PALLAAKHILESWAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>📍 from Tirupati · 🎓 RMK Engg '24 · 🧠 Data Science + GenAI intern</b><br>
+  <i>“building smart things with dumb amounts of data.”</i>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 right now i'm...
+- ⚙️ fine-tuning ML models for real-world tasks
+- 💬 working on a chatbot using OCR + LLM + vector DB
+- 🧪 experimenting with feature engineering & deployment
+
+---
+
+### 🛠️ stack i'm vibing with
+`Python` · `Pandas` · `Scikit-learn` · `Numpy` · `Matplotlib`  
+`Streamlit` · `FastAPI` · `LangChain` · `Pinecone` · `Git` · `Linux`
+
+---
+
+### 🧩 featured builds
+| project | what it do |
+|--------|-------------|
+| [🌿 Medicinal Plants Classifier](https://github.com/PALLAAKHILESWAR/Medicinal_plants_classification) | CNN-based image classification of medicinal plants — possibly life-saving leaves 🌱 |
+| [🔍 Resume Classifier](https://github.com/PALLAAKHILESWAR/Resume-Classification) | NLP model that tags resumes by job category (with a Streamlit UI) |
+| [🖱️ Virtual Mouse by AI](https://github.com/PALLAAKHILESWAR/Virtual-Mouse-by-AI) | Use your hand to control the mouse — real-time gesture detection with OpenCV ✋🖥️ |
+
+---
+
+### 💬 connect with me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/pallaakhileswar)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail&style=flat-square)](mailto:pallaakhilofficial@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PALLAAKHILESWAR&show_icons=true&theme=tokyonight" />
+</p>
