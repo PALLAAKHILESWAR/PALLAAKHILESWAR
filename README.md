@@ -1,16 +1,9 @@
 <h1 align="center">hey there 👋 i'm akhil</h1>
 
 <p align="center">
-  <b>📍 from Tirupati · 🎓 RMK Engg '24 · 🧠 Data Science + GenAI intern</b><br>
+  <b>📍 from Tirupati · 🎓 RMK Engg '24 (Computer Science and Engineering) · 🧠 Data Science + GenAI intern</b><br>
   <i>“building smart things with dumb amounts of data.”</i>
 </p>
-
----
-
-### 🔧 right now i'm...
-- ⚙️ fine-tuning ML models for real-world tasks
-- 💬 working on a chatbot using OCR + LLM + vector DB
-- 🧪 experimenting with feature engineering & deployment
 
 ---
 
